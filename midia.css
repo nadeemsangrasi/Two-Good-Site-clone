@@ -72,6 +72,9 @@ font-size: 3vw;
         font-size: 3vw;
 
     }
+    .nav-part4{
+        z-index:99;
+    }
     .nav-part1{
         padding: 15px;
         height: 65px;

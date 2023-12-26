@@ -73,11 +73,8 @@ font-size: 3vw;
 
     }
     .nav-part4{
-    height: 100vh;
+    min-height: 100vh;
     width: 100%;
-position: absolute;
-z-index: 99;
-transform: translateY(-100%);
     }
     .nav-part1{
         padding: 15px;
